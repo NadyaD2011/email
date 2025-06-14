@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ### Файл .env
 
-
+AAAAAAA
 
 ## Запуск и использование
 
